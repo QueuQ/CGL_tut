@@ -8,7 +8,7 @@ The length of this tutorial will be 2 hours, including a 100 minutes presentatio
 
 ## Materials
 
-Slides for the tutorial: https://github.com/QueuQ/CGL_tut/blob/master/tutorial_slides.pdf.
+Slides for the tutorial: <a href="https://github.com/QueuQ/CGL_tut/blob/master/tutorial_slides.pdf"> https://github.com/QueuQ/CGL_tut/blob/master/tutorial_slides.pdf </a>
 
 Our survey on continual graph learning: https://github.com/QueuQ/CGL_tut/blob/master/CGL_survey.pdf.
 
