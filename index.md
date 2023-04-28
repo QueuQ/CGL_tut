@@ -8,9 +8,9 @@ The length of this tutorial will be 2 hours, including a 100 minutes presentatio
 
 ## Materials
 
-Slides for the tutorial: https://github.com/QueuQ/CGL_tut/blob/master/tutorial_slides.pdf
+Slides for the tutorial: https://github.com/QueuQ/CGL_tut/blob/master/tutorial_slides.pdf.
 
-Our survey on continual graph learning: https://github.com/QueuQ/CGL_tut/blob/master/CGL_survey.pdf
+Our survey on continual graph learning: https://github.com/QueuQ/CGL_tut/blob/master/CGL_survey.pdf.
 
 ## Introduction
 Real-world graphs are often continuously growing or evolving. For example, new types of papers may be constantly added to a citation network, and a document classifier is expected to continuously adapt and be capable of classifying the new types of papers. In drug design research, molecules with new types of properties may be continuously encountered, and a molecule property predictor has to keep learning the new molecule properties. Existing graph learning models are good at learning new patterns/tasks. However, the high plasticity also brings the catastrophic forgetting problem, which refers to the drastic performance drop on previously learned tasks after the model has learned new tasks. To this end, CGL is attracting increasingly more attention recently, and therefore will be thoroughly discussed in this tutorial. 
